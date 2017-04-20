@@ -1,4 +1,7 @@
-# test coverage for  [stack-trace (v0.0.9)](https://github.com/felixge/node-stack-trace)  [![npm package](https://img.shields.io/npm/v/npmtest-stack-trace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stack-trace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stack-trace.svg)](https://travis-ci.org/npmtest/node-npmtest-stack-trace)
+# npmtest-stack-trace
+
+#### basic test coverage for  [stack-trace (v0.0.9)](https://github.com/felixge/node-stack-trace)  [![npm package](https://img.shields.io/npm/v/npmtest-stack-trace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stack-trace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stack-trace.svg)](https://travis-ci.org/npmtest/node-npmtest-stack-trace)
+
 #### Get v8 stack traces as an array of CallSite objects.
 
 [![NPM](https://nodei.co/npm/stack-trace.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stack-trace)

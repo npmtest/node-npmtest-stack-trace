@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [stack-trace (v0.0.9)](https://github.com/felixge/node-stack-trace) [![npm package](https://img.shields.io/npm/v/npmtest-stack-trace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stack-trace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stack-trace.svg)](https://travis-ci.org/npmtest/node-npmtest-stack-trace)",
+    "description": "#### basic test coverage for  [stack-trace (v0.0.9)](https://github.com/felixge/node-stack-trace)  [![npm package](https://img.shields.io/npm/v/npmtest-stack-trace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stack-trace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stack-trace.svg)](https://travis-ci.org/npmtest/node-npmtest-stack-trace)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "stack-trace": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
